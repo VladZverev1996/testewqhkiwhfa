@@ -1,0 +1,8 @@
+abha
+awladj
+xvnxvn
+nskgn
+rqjolirq;j
+cls
+doskey /history
+doskey /history > 7.txt
